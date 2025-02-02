@@ -4,14 +4,6 @@
 - 👯 I’m looking to collaborate on Back-and
 - 🤔 I’m looking for help with I'm looking for help to start my career as a programmer
 - ⚡ Fun fact: I'm crazy about knowledge
-<style>
-  .img {
-    display: flex;
-    margin: 1px;
-    width: 10px; /* Ajuste conforme necessário */
-    height: auto;
-        }
-</style>
 <div class="img">
   <a href="https://github.com/kauaoliveira-dev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauaoliveira-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
