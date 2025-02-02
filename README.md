@@ -12,4 +12,11 @@
       <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaoliveira-dev&layout=compact&langs_cont=16&theme=dark"/>
 <a/>
 </div>
+<div styke="display: inline_block">
+  <img align="center" alt="Kaua-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Kaua-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Kaua-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Kaua-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
 
+
+</div>
