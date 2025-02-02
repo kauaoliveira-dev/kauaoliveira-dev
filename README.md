@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Kauã Oliveira 👋
 
 - 🌱 I’m currently learning Java and R.
 - 👯 I’m looking to collaborate on Back-and
